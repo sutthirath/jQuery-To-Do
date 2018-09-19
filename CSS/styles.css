@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 25%;
+    background-color: rebeccapurple;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    width: 50%;
+}
+
+li {
+    text-align: right;
+}
